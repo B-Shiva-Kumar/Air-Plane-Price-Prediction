@@ -16,6 +16,10 @@ Features in Data set are :
 11. Price          : of the ticket.
 
 
+I uploaded  both train & test fines.
+
+
+
 We've to calculate Price for the ticket between Source & Destination airports.
 
 # Preprocessing Data :
